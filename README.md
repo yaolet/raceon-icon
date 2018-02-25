@@ -1,8 +1,11 @@
 # A multicolor icon set for Raceon
 
+一个赛事图标集
+![Preview](./src/preview.png)
 
 
 # 使用授权
+Copyright (c) 2018, 玩赛小助手
 任何人/机构在遵守以下条件的前提下，可使用、修改、再次发布本软件或以源代码及二进
 制形式使用软件：
 
