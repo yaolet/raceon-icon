@@ -1,7 +1,7 @@
 # A multicolor icon set for Raceon
 
 一个赛事图标集
-![Preview](./src/preview.png)
+![Preview](./split/src/preview.png)
 
 
 # 使用授权
